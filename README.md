@@ -1,1 +1,1 @@
-# Tic-Tac-Toe-Game
+.EXE file is in the dist folder
